@@ -1,5 +1,3 @@
-# README for Image Trimming Script
-
 ## Overview
 This script is designed to automatically trim the background from an image, focusing on the primary subject. It utilizes the Python Imaging Library (PIL), specifically the `Image` and `ImageChops` modules, to perform image manipulation tasks. The script is particularly useful for processing images where the subject is surrounded by a uniform background.
 
